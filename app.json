@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "demo-expo02",
-    "slug": "demo-expo02",
+    "name": "todolist-react-native",
+    "slug": "todolist-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
