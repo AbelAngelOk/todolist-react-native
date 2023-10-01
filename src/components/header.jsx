@@ -1,6 +1,6 @@
 import { View, Text, TouchableOpacity, StyleSheet } from "react-native"
 
-const options = ["Pomodoro","Short Break", "Long Break"];
+const options = ["Simple","Herramientas", "H. C"];
 
 export default function Header ({ currentTime, setCurrentTime, setTime }) {
 
